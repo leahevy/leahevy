@@ -19,4 +19,4 @@ Currently I work in the field of conversational AI using ML and Python.
 
 [![Evyli's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyli&hide=stars&show_icons=true&theme=synthwave)](https://github.com/evyli)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyli&layout=Compact)](https://github.com/evyli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyli&layout=compact)](https://github.com/evyli)
