@@ -17,5 +17,6 @@ Currently I work in the field of conversational AI using ML and Python.
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 
+[![Evyli's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyli&hide=stars&show_icons=true&theme=synthwave)](https://github.com/evyli)
 
-[![Evyli's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyli&hide=stars)](https://github.com/evyli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyli&layout=Compact)](https://github.com/evyli)
