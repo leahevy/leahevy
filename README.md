@@ -6,7 +6,7 @@ I worked as a researcher in the field of High-Performance computing.
 Currently I work in the field of conversational AI using ML and Python.
 
 - 💼 Backend developer at [SUSI & James](https://susiandjames.com/)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her 🏳‍🌈🌈❤️
 - 📫 How to reach me: [Email](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
 - 🔭 I’m currently working on [evalsys](https://github.com/evyli/evalsys), a package and file management tool for Linux/MacOS in Python.
 - 🌱 I’m currently learning Ruby 😎
