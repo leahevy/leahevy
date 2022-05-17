@@ -1,4 +1,4 @@
-Hi there, I'm Leah. 👋
+<b>Hi there, I'm Leah.</b>  👋
 
 <hr />
 
