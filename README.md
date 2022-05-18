@@ -13,7 +13,7 @@ You can also subscribe to the [RSS feed](https://evyli.de/feed.xml) on my page.
 When I'm not programming, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 
 Me, in a nutshell:
-- 💼 Backend developer at [SUSI & James](https://susiandjames.com/)
+- 💼 Backend developer
 - 😄 Pronouns: [she/her](https://en.pronouns.page/she) 🏳‍🌈🌈❤️
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
 - 🌱 I’m currently learning _Ruby_
