@@ -6,11 +6,13 @@ I am a software developer from Germany, Frankfurt area. I like to develop in Pyt
 
 I worked as a researcher in the field of High-Performance computing. Currently I work in the field of conversational AI using ML and Python.
 
-I will blog recently on <a href="https://evyli.de">this site</a> mostly about programming/coding topics. Particularly in the Python programming language.
+I will blog recently on <a href="https://evyli.de">my blog</a>, mostly about programming/coding topics. Particularly, in the Python programming language.
 
-You can also subscribe to the [RSS feed](https://evyli.de/feed.xml).
+You can also subscribe to the [RSS feed](https://evyli.de/feed.xml) on my page.
 
-In a nutshell:
+When I'm not programming, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
+
+Me, in a nutshell:
 - 💼 Backend developer at [SUSI & James](https://susiandjames.com/)
 - 😄 Pronouns: [she/her](https://en.pronouns.page/she) 🏳‍🌈🌈❤️
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
