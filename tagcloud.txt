@@ -1,0 +1,10 @@
+GA, parsing, LR,ANN, NLU, Scheduling.
+Java, Javascript, C, Python, C++, Golang, Ruby, Haskell.
+DSL
+LaTeX, SQL, R, MATLAB, HTML/CSS.
+Linux Shell
+OOP, functional, concurrent
+Scrum, TDD
+git, svn,
+make, cmake, ant
+mongo, mariadb

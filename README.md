@@ -1,4 +1,4 @@
-<b>Hi there, I'm Leah.</b>  👋
+<b>Hi there, I'm Leah.</b> 👋
 
 <hr />
 
@@ -13,6 +13,7 @@ You can also subscribe to the [RSS feed](https://evyli.de/feed.xml) on my page.
 When I'm not programming, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 
 Me, in a nutshell:
+
 - 💼 Backend developer
 - 😄 Pronouns: [she/her](https://en.pronouns.page/she) 🏳‍🌈🌈❤️
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
@@ -22,10 +23,12 @@ Me, in a nutshell:
 
 Feel free to contact me via [GitHub](https://github.com/evyli), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/evyli)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/evyli)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://github.com/evyli)
 
 [![Evyli's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyli&hide=stars&show_icons=true&theme=synthwave)](https://github.com/evyli)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyli&layout=compact)](https://github.com/evyli)
+
+[![Tagcloud](https://raw.githubusercontent.com/evyli/evyli/master/tagcloud.png)](https://github.com/evyli)
