@@ -12,7 +12,7 @@ Me, in a nutshell:
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
 - 🌱 I’m currently learning _Ruby_
 - 👯 I’m looking to collaborate on open source projects involving _Python_, _Linux_, and _ML_ topics
-- 💬 Ask me anything [here](https://github.com/evyli/evyli/issues)
+- 💬 Ask me anything [here](https://github.com/leahevy/leahevy/issues)
 
 I'm skilled in the languages: *Python*, *Java*, *C*, *C++*, *Google Go*, **and** *Haskell*.
 
@@ -24,22 +24,22 @@ You can find my recent publications [here](https://evyli.de/resume#publications)
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
 
-Feel free to contact me via [GitHub](https://github.com/evyli), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
+Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
 
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=evyli&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
 </p>
   
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evyli&layout=compact" alt="" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahevy&layout=compact" alt="" width="500"/>
 </p>
 
 <hr/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/evyli/evyli/master/tagcloud.png" alt="" width="200"/>
+<img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="200"/>
 </p>
