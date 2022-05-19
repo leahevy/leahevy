@@ -43,5 +43,5 @@ Feel free to contact me via [GitHub](https://github.com/evyli), [E-Mail](mailto:
 <hr/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/evyli/evyli/master/tagcloud.png" alt="" width="300"/>
+<img src="https://raw.githubusercontent.com/evyli/evyli/master/tagcloud.png" alt="" width="200"/>
 </p>
