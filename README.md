@@ -26,6 +26,13 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 
 Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+![](https://komarev.com/ghpvc/?username=leahevy)
+
+<!--START_SECTION:activity-->
+
+
 <hr/>
 
 <p align="center">
