@@ -26,14 +26,29 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 
 Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<hr/>
 
-![](https://komarev.com/ghpvc/?username=leahevy)
+<p align="center">
+<img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100"/>
+<img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100"/>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=leahevy&style=for-the-badge&label=Views"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
+</p>
+
+<hr/>
+
+<h2>Stats</h2>
 
 <details>
 <summary>GitHub stats</summary>
+  
+<hr/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
@@ -47,19 +62,31 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
   
 <hr/>
   
+<p align="center">
+<img src="https://github-contribution-stats.vercel.app/api/?username=leahevy" alt="" width="500"/>
+</p>
+  
+<hr/>
+  
 </details>
   
 <details>
 <summary>Last.fm</summary>
+  
+<hr/>
 
 <p align="center">
 <img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="500"/>
 </p>
   
+<hr/>
+  
 </details>
 
 <details>
 <summary>Tags</summary>
+  
+<hr/>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="300"/>
@@ -69,9 +96,7 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
   
 <hr/>
 
-<details>
-<summary>Recent activity</summary>
-<!--START_SECTION:activity-->
-  
-  
-</details>
+<h2>Recent blog posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
