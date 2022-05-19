@@ -12,6 +12,7 @@ Me, in a nutshell:
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
 - 🌱 I’m currently learning _Ruby_
 - 👯 I’m looking to collaborate on open source projects involving _Python_, _Linux_, and _ML_ topics
+- 💋 I speak 🇩🇪 German and 🇬🇧 English
 - 💬 Ask me anything [here](https://github.com/leahevy/leahevy/issues)
 
 I'm skilled in the languages: *Python*, *Java*, *C*, *C++*, *Google Go*, **and** *Haskell*.
