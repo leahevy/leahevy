@@ -1,8 +1,6 @@
-<b>Hi there, I'm Leah.</b> ❤️
+<b>Hi there, I'm <a href="https://evyli.de/about">Leah</a>.</b> ❤️
 
 <hr />
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/evyli)
 
 I am a software developer from Germany, Frankfurt area. I like to develop in Python since many years.
 
