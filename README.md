@@ -51,6 +51,12 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <hr/>
 
 <p align="center">
+<img src="https://activity-graph.herokuapp.com/graph/?username=leahevy&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" alt="" width="500"/>
+</p>
+  
+<hr/>
+  
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
 </p>
   
