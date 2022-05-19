@@ -30,10 +30,10 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 
 ![](https://komarev.com/ghpvc/?username=leahevy)
 
-<!--START_SECTION:activity-->
 
 
-<hr/>
+<details>
+<summary>GitHub stats</summary>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
@@ -44,9 +44,34 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahevy&layout=compact" alt="" width="500"/>
 </p>
-
+  
 <hr/>
+  
+</details>
+  
+<details>
+<summary>Last.fm</summary>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="200"/>
+<img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="500"/>
 </p>
+  
+</details>
+
+<details>
+<summary>Tags</summary>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="300"/>
+</p>
+  
+</details>
+  
+<hr/>
+
+<details>
+<summary>Recent activity</summary>
+<!--START_SECTION:activity-->
+  
+  
+</details>
