@@ -1,4 +1,4 @@
-<b>Hi there, I'm <a href="https://evyli.de/about">Leah</a>.</b> ❤️
+<b>Hi there, I'm <a href="https://leahevy.de/about">Leah</a>.</b> ❤️
 
 <hr />
 
@@ -12,15 +12,15 @@ Me, in a nutshell:
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
 - 🌱 I’m currently learning _Ruby_
 - 👯 I’m looking to collaborate on open source projects involving _Python_, _Linux_, and _ML_ topics
-- 💋 I speak 🇩🇪 German and 🇬🇧 English
+- I speak 🇩🇪 German and 🇬🇧 English
 - 💬 Ask me anything [here](https://github.com/leahevy/leahevy/issues)
 
 I'm skilled in the languages: *Python*, *Java*, *C*, *C++*, *Google Go*, **and** *Haskell*.
 
-I blog recently on <a href="https://evyli.de">my blog</a>, mostly about programming/coding topics. Particularly, in the Python programming language. You can also subscribe to the [RSS feed](https://evyli.de/feed.xml) on my page.
+I blog recently on <a href="https://leahevy.de">my blog</a>, mostly about programming/coding topics. Particularly, in the Python programming language. You can also subscribe to the [RSS feed](https://leahevy.de/feed.xml) on my page.
 
 Particularly, I'm interested in carrying out research in the area of *High-Performance-Computing* and *Machine-Learning*.
-You can find my recent publications [here](https://evyli.de/resume#publications).
+You can find my recent publications [here](https://leahevy.de/resume#publications).
 
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
@@ -106,5 +106,4 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <h2>Recent blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re up and running!](https://evyli.de/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
