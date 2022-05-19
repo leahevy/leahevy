@@ -106,5 +106,5 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <h2>Recent blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re up and running!](https://evyli.de/Hello-World/)
+- [Hello World](https://leahevy.de/blog/2022/05/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
