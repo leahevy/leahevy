@@ -25,6 +25,8 @@ You can find my recent publications [here](https://leahevy.de/resume#publication
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
 
+<div style="display: none">
+
 <hr/>
 
 <p align="center">
@@ -99,3 +101,5 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <p align="center">
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
 </p>
+
+</div>
