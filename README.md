@@ -25,8 +25,6 @@ You can find my recent publications [here](https://leahevy.de/resume#publication
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
 
-Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailto:leah.lackner+github@gmail.com), [Mastodon](https://chaos.social/@nyshi), or [LinkedIn](https://www.linkedin.com/in/leah-lackner).
-
 <hr/>
 
 <p align="center">
@@ -38,73 +36,66 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <img src="https://komarev.com/ghpvc/?username=leahevy&style=for-the-badge&label=Views"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
-</p>
-
 <hr/>
 
-<h2>Stats</h2>
+<h2 align="center">📨 Contact me!</h2>
 
-<details>
-<summary>GitHub stats</summary>
-  
-<hr/>
+<div align="center">
+	
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leah-lackner/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/leahevy/)
+	
+</div>
 
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph/?username=leahevy&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" alt="" width="500"/>
-</p>
-  
-<hr/>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="500"/>
-</p>
-  
-<hr/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahevy&layout=compact" alt="" width="500"/>
-</p>
-  
-<hr/>
-  
-<p align="center">
-<img src="https://github-contribution-stats.vercel.app/api/?username=leahevy" alt="" width="500"/>
-</p>
-  
-<hr/>
-  
-</details>
-  
-<details>
-<summary>Last.fm</summary>
-  
-<hr/>
-
-<p align="center">
-<img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="500"/>
-</p>
-  
-<hr/>
-  
-</details>
-
-<details>
-<summary>Tags</summary>
-  
-<hr/>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="300"/>
-</p>
-  
-</details>
-  
-<hr/>
-
-<h2>Recent blog posts</h2>
+<h2>🧪 Recent blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World](https://leahevy.de/blog/2022/05/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
+
+<hr/>
+
+<h2>🔭 Stats</h2>
+
+  
+<p float="left">
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph/?username=leahevy&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" alt="" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leahevy&hide=stars&show_icons=true&theme=synthwave" alt="" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahevy&layout=compact" alt="" width="350"/>
+<img src="https://github-contribution-stats.vercel.app/api/?username=leahevy" alt="" width="350"/>
+</p>
+</p>
+
+<hr/>
+
+<h2>🪧 Tags</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="300"/>
+</p>
+ 
+<hr/>
+
+<h2>📝 Updates</h2>
+
+<p float="left">
+ <p align="center">
+<a href="https://twitter.com/leahevy"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=leahevy" alt="" width="350"/></a>
+</p>
+</p>
+
+<hr/>
+
+<p float="left">
+ <p align="center">
+   <img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="350"/>
+
+</p>
+</p>
+
+<h2>😲 Quote</h2>
+
+<p align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
+</p>
