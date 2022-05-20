@@ -83,7 +83,7 @@ Feel free to contact me via [GitHub](https://github.com/leahevy), [E-Mail](mailt
 <hr/>
 
 <p align="center">
-<img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="500"/>
+<img src="https://lastfm-recently-played.vercel.app/api?user=leahevy" alt="" width="500"/>
 </p>
   
 <hr/>
