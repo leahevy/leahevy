@@ -41,11 +41,11 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <h2 align="center">📨 Contact me!</h2>
 
 <div align="center">
-	
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leah-lackner/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/leahevy/)
-	
+<a href="https://www.linkedin.com/in/leah-lackner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/leahevy/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
+<hr/>
 
 <h2>🧪 Recent blog posts</h2>
 
