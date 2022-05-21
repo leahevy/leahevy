@@ -6,7 +6,10 @@ I am a software developer from Germany, Frankfurt area. I like to develop in Pyt
 
 I worked as a [researcher](https://www.parallel.informatik.tu-darmstadt.de/) in the field of High-Performance computing in the [European Human Brain Project](https://www.humanbrainproject.eu/en/). Currently I work in the field of conversational AI using ML and Python.
 
-Me, in a nutshell:
+I blog recently on <a href="https://leahevy.de">my blog</a>, mostly about programming/coding topics. Particularly, in the Python programming language. You can also subscribe to the [RSS feed](https://leahevy.de/feed.xml) on my page.
+
+## In a nutshell
+
 - 💼 I'm a Backend developer
 - 😄 My pronouns are: [she/her](https://en.pronouns.page/she) 🏳‍🌈🌈❤️
 - 📫 How to reach me: [E-Mail](mailto:leah.lackner+github@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leah-lackner)
@@ -17,10 +20,12 @@ Me, in a nutshell:
 
 I'm skilled in the languages: *Python*, *Java*, *C*, *C++*, *Google Go*, **and** *Haskell*.
 
-I blog recently on <a href="https://leahevy.de">my blog</a>, mostly about programming/coding topics. Particularly, in the Python programming language. You can also subscribe to the [RSS feed](https://leahevy.de/feed.xml) on my page.
+## Research
 
 Particularly, I'm interested in carrying out research in the area of *High-Performance-Computing* and *Machine-Learning*.
 You can find my recent publications [here](https://leahevy.de/resume#publications).
+
+## My life
 
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
@@ -37,6 +42,8 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=leahevy&style=for-the-badge&label=Views"/>
 </p>
+  
+</div>
 
 <hr/>
 
@@ -46,6 +53,8 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <a href="https://www.linkedin.com/in/leah-lackner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/leahevy/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
+
+<div style="display: none">
 
 <hr/>
 
