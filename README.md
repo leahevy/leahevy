@@ -105,10 +105,4 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 </p>
 </p>
 
-<h2>😲 Quote</h2>
-
-<p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
-</p>
-
 </div>
