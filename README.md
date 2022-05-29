@@ -1,7 +1,5 @@
 <b>Hi there, I'm <a href="https://leahevy.de/about">Leah</a>.</b> ❤️
 
-<hr />
-
 I am a software developer from Germany, Frankfurt area. I like to develop in Python since many years.
 
 I worked as a [researcher](https://www.parallel.informatik.tu-darmstadt.de/) in the field of High-Performance computing in the [European Human Brain Project](https://www.humanbrainproject.eu/en/). Currently I work in the field of conversational AI using ML and Python.
