@@ -28,6 +28,15 @@ You can find my recent publications [here](https://leahevy.de/resume#publication
 When I'm not programming or doing science, I'm engaging politically in a leftist movement and supporting the **LGBT** community.
 I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as fantasy. I also do paintings and write novels myself and I love robotics and tech generally.
 
+<hr/>
+
+<h2 align="center">📨 Contact me!</h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/leah-lackner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/leahevy/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
+
 <div style="display: none">
 
 <hr/>
@@ -43,14 +52,6 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
   
 </div>
 
-<hr/>
-
-<h2 align="center">📨 Contact me!</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/leah-lackner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/leahevy/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
 
 <div style="display: none">
 
