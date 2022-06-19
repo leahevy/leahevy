@@ -84,24 +84,5 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <p align="center">
 <img src="https://raw.githubusercontent.com/leahevy/leahevy/master/tagcloud.png" alt="" width="300"/>
 </p>
- 
-<hr/>
-
-<h2>📝 Updates</h2>
-
-<p float="left">
- <p align="center">
-<a href="https://twitter.com/leahevy"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=leahevy" alt="" width="350"/></a>
-</p>
-</p>
-
-<hr/>
-
-<p float="left">
- <p align="center">
-   <img src="https://lastfm-recently-played.vercel.app/api?user=evyli" alt="" width="350"/>
-
-</p>
-</p>
 
 </div>
