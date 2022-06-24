@@ -58,6 +58,7 @@ I love reading sci-fi literature (e.g. the works from Isaac Asimov) as well as f
 <h2>🧪 Recent blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bash To Fish](https://leahevy.de/blog/2022/06/Bash-to-Fish/)
 - [Hello World](https://leahevy.de/blog/2022/05/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
 
